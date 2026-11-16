@@ -1,0 +1,11 @@
+version: 1
+project:
+  id: my-portfolio
+  title: Ray Bernados - Data Science Portfolio
+  toc:
+    - file: intro.md
+    - file: Laboratory_Task_2_Single_Forward_Pass_&_Error_Calculation.ipynb
+    - file: Laboratory_Task_4_PyTorch_Regression_with_2_Fully_Connected_Layers.ipynb
+    - file: LabTask5_Bernados.ipynb
+site:
+  template: book-theme

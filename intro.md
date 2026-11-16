@@ -1,0 +1,9 @@
+# Ray Bernados - Data Science Portfolio
+
+**Program & Year Level:** BS in Data Science (4th Year) — University of Science and Technology of Southern Philippines (USTP)
+
+---
+
+## Welcome
+Welcome to my data science portfolio! Here you will find my coursework, laboratory tasks, and machine learning notebooks.
+
